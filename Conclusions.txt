@@ -1,0 +1,5 @@
+1. Using the SVM model: Training Data Score and Testing Data Score were very comparable. Training Data Score : 0.8916650772458516
+Testing Data Score: 0.8947368421052632.  Hyperparameter tuning increased score marginally to = .9
+2. Using The Logistics Regression model: Training Data Score: 0.4762540530230784
+Testing Data Score: 0.4776887871853547. Best score with Grid Hyperparameter tuning was .621973125986945
+3.  SVM Model was better model to use based on scoring
